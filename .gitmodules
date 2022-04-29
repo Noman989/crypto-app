@@ -1,0 +1,6 @@
+[submodule "crypto-app-backend"]
+	path = crypto-app-backend
+	url = https://github.com/Noman989/crypto-app-backend
+[submodule "crypto-app-frontend"]
+	path = crypto-app-frontend
+	url = https://github.com/Noman989/crypto-app-frontend
